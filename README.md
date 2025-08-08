@@ -7,11 +7,11 @@ This project focuses on analyzing customer churn for PhoneNow services by unders
 
 # Table of contents
 - [Problem Statement](https://github.com/Aryan-chand/Customer-Retention-Analysis?tab=readme-ov-file#problem-statement)
-- [Data Source](https://github.com/Aryan-chand/PowerBI/tree/main/Customer%20Retension%20Analysis#data-sourcing)
-- [Data Preparation](https://github.com/Aryan-chand/PowerBI/tree/main/Customer%20Retension%20Analysis#data-preparation)
-- [Data Visualization](https://github.com/Aryan-chand/PowerBI/tree/main/Customer%20Retension%20Analysis#data-visualization)
-- [Analysis and Insights](https://github.com/Aryan-chand/PowerBI/edit/main/Customer%20Retension%20Analysis#analysis-and-insights)
-- [Shareable Link](https://github.com/Aryan-chand/PowerBI/tree/main/Customer%20Retension%20Analysis#link-shareable-link)
+- [Data Source](https://github.com/Aryan-chand/Customer-Retention-Analysis?tab=readme-ov-file#data-sourcing)
+- [Data Preparation](https://github.com/Aryan-chand/Customer-Retention-Analysis?tab=readme-ov-file#data-preparation)
+- [Data Visualization](https://github.com/Aryan-chand/Customer-Retention-Analysis?tab=readme-ov-file#data-visualization)
+- [Analysis and Insights](https://github.com/Aryan-chand/Customer-Retention-Analysis?tab=readme-ov-file#analysis-and-insights)
+- [Shareable Link](https://github.com/Aryan-chand/Customer-Retention-Analysis?tab=readme-ov-file#link-shareable-link)
 
 
 # Problem Statement
